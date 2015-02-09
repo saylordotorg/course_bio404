@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO404: Cancer Biology"
+course_description: "A detailed examination of the development and progression of cancer, including tumor suppressors and oncogenes and the cell cycle and its checkpoints, with special attention to the causes of cancer, including various carcinogens, risk assessment, the processes of cell death, cancer history, and treatment options."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Growth Inhibitors** <span id="3"></span> 
 **In normal cells, there are factors that check cell growth, prevent or
 slow cell division, and trigger apoptosis (programmed cell death) of

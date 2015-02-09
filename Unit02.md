@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO404: Cancer Biology"
+course_description: "A detailed examination of the development and progression of cancer, including tumor suppressors and oncogenes and the cell cycle and its checkpoints, with special attention to the causes of cancer, including various carcinogens, risk assessment, the processes of cell death, cancer history, and treatment options."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Gene Expression and Regulation** <span id="2"></span> 
 **To understand how cancer is disruptive, you must first understand the
 systems it disrupts.  This unit will cover the primary means through

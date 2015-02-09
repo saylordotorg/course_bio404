@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO404: Cancer Biology"
+course_description: "A detailed examination of the development and progression of cancer, including tumor suppressors and oncogenes and the cell cycle and its checkpoints, with special attention to the causes of cancer, including various carcinogens, risk assessment, the processes of cell death, cancer history, and treatment options."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Origins and Overview** <span id="1"></span> 
 **This unit will introduce you to the history of cancer.  Many notable
 scientists have made important discoveries about the causes of cancer,

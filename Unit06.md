@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO404: Cancer Biology"
+course_description: "A detailed examination of the development and progression of cancer, including tumor suppressors and oncogenes and the cell cycle and its checkpoints, with special attention to the causes of cancer, including various carcinogens, risk assessment, the processes of cell death, cancer history, and treatment options."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Carcinogens** <span id="6"></span> 
 **While mutations and genetic predispositions can lead to cancer,
 environmental factors have been shown to do so as well.  These factors

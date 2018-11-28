@@ -73,7 +73,7 @@ computer.
  √    Be competent in the English language.
 
 √    Have read the [Saylor Student
-Handbook.](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf)
+Handbook.](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf)
 
 √    Have completed [BIO101](http://www.saylor.org/courses/bio101/) and
 [BIO102](http://www.saylor.org/majors/biology/) from “[The Core

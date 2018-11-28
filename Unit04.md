@@ -43,7 +43,7 @@ Upon successful completion of this unit, the student will be able to:
 **4.1.1 The Apoptosis Pathway** <span id="4.1.1"></span> 
 -   **Reading: Saylor Foundation’s “Apoptosis”**
     Link: Saylor Foundation’s
-    “[Apoptosis](https://resources.saylor.org/archived/wp-content/uploads/2012/05/BIO404-OC-4.1.1-Apoptosis-FINAL.pdf)”
+    “[Apoptosis](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/BIO404-OC-4.1.1-Apoptosis-FINAL.pdf)”
     (PDF)  
         
      Instructions: Read this short overview of apoptosis, also known as
